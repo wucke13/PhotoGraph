@@ -1,0 +1,15 @@
+# Build paths
+build/
+cmake-build-debug/
+built/
+
+# Helper folders and files
+.clangd/
+.ccls-cache/
+.vscode/
+.idea/
+compile_commands.json
+.gdb_history
+
+# Working files.
+img/
